@@ -9,4 +9,6 @@ Landing page for car detailing business.
 ## How to View
 You can open 'index.html' in any browser to see the page in action.
 
-## Built with HTML and CSS
+## Built with
+- HTML
+- CSS
